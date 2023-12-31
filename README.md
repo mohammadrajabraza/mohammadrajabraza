@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](BTsbt#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](BTsbt#gh-light-mode-only)
 [<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" title="NexjJS" />](BTsbt#gh-light-mode-only)
-[<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="padding-right:10px;" title="graph-ql" />]()
 [<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" title="tailwind-css" />]()
 <br />
 <br />
